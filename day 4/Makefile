@@ -3,4 +3,4 @@ build:
 	g++ day_4_part_2.cpp -o day_4_part_2 -std=c++14
 
 clean:
-	rm day_4_part_1 day_4_part_2
+	rm day_4_part_1 day_4_part_2 test.out
